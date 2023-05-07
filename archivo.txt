@@ -2,6 +2,14 @@
 Ejercicios:
 
  3 - Ejemplo de contador con useState.
- 4 - Ver Router para aplicacion y navegacion. (react-router-dom)es una dependencia que vamos a instalar
+ 4 - contexto
+ 5 - Ver Router para aplicacion y navegacion. (react-router-dom)es una dependencia que vamos a instalar
  para poder ejecutar la navegacion entre componentes.
- 5 - Planificar aplicacion para integrar conceptos de React llevado a una App e-commerce real.
+ 6 - Planificar aplicacion para integrar conceptos de React llevado a una App e-commerce real.
+
+
+
+El contexto es un estado global de aplicacion para poder distrubuir informacion, a todos componentes.
+
+
+ 
